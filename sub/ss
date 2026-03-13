@@ -159,12 +159,6 @@ ss://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&e
 ss://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0%3D@95.216.238.249:37337#%40SERVERNETT1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06c2p3L1V5UmdibmkrV3hpU29HTGUrSVpnU0NQOTZGVnpIb0I3L1dCd2FXMD0%3D@95.216.238.249:37337#%40SERVERNETT2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%40SERVERNETT3
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NkNzbStBbHhkTWI3Q3YrVUZFcHNkZmdQcnJQMm5WaTFBT09QMmJWOGdiST0%3D@31.58.220.156:442#%40SERVERNETT4
-ss://YWVzLTI1Ni1nY20677%2B9Xg%3D%3D@13.39.53.66:22224#%40SERVERNETT5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%40SERVERNETT6
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0%3D@95.216.238.249:37337#%40SERVERNETT1  ss://MjAyMi1ibGFrZTMtYWVzLTI1N…
 ss://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?path=%2Fws&security=none&encryption=none&host=v.iampedi7.live&type=ws#%40SERVERNETT1
 ss://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#%40SERVERNETT2
@@ -792,6 +786,15 @@ ss://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?secu
 ss://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQEtJQV9ORVQg2obZhtmE4oCM2KrZhNqv2LHZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nl4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl4.maxriser.ir#
 ss://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ws2.beepn.info&fp=chrome&type=ws&allowInsecure=0&sni=Ws2.beepn.info#@unlimiteddev
+ss://ef23616d-8a9d-4b22-b2f5-9bda864de179@198.41.209.88:8080?path=%2Fec4l307nur5g&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#%40filembad
+ss://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet?ed=2048&security=none#%40filembad
+ss://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%40filembad
+ss://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560#%40filembad
+ss://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#%40filembad
+ss://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#%40filembad
+ss://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#%40filembad
+ss://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#%40filembad
 ss://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 ss://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40ConfigV2RayNG
 ss://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun1.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%40ConfigV2RayNG
