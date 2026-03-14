@@ -661,7 +661,6 @@ vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8  
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF  
-vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?security=none&encryption=none&headerType=none&type=tcp#%40
 vless://e370930f-fa08-474c-b4c2-a6ca7885ecf7@tr2.rhino.bottm.security-gmp.rhinnoo.ir:80?encryption=none&type=tcp&headerType=none&security=none#@v
 vless://e370930f-fa08-474c-b4c2-a6ca7885ecf7@tr2.rhino.bottm.security-gmp.rhinnoo.ir:80?security=&encryption=none&headerType=none&type=tcp#%40
 vless://4898e947-7364-40fc-bc6d-969c74afc72a@shhproxy.varzesh3-cnd.site:2087?path=%2F&security=tls&encryption=none&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#@vpn_kanfik
