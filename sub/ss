@@ -759,6 +759,7 @@ ss://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=non
 ss://49bc99e9-305a-4045-a609-a258e8b2b76d@outbounde.iran-mehrbu.ir:16446?security=none&encryption=none&headerType=none&type=tcp#%40saministamm%20%7C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF 
 ss://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#iranazadn 
 ss://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&encryption=none&headerType=none&type=tcp#%40madzteam%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://788d2a40-12fe-4296-b802-d218308e769b@94.101.179.197:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=archive-azd1101.telewebion.ir&sid=6ba85179e30d4fc2&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none#
 ss://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40ConfigV2RayNG%20%F0%9F%87%A9%F0%9F%87%AA
 ss://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40ConfigV2RayNG
 ss://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun1.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%40ConfigV2RayNG
