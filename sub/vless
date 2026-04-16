@@ -296,7 +296,6 @@ vless://56e626c8-6396-4f81-a20f-3a84bc71164a@fox3.wizard2shop.org:2083?path=%2F%
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&security=none&encryption=none&host=hamon.hamimelectronic.ir&type=ws#%40Easy_Free_VPN
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#%40Easy_Free_VPN
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=norton-vip.cfd&type=httpupgrade#%40Easy_Free_VPN
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&security=tls&encryption=none&echfq=none&host=sni.111000.indevs.in&fp=chrome&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#%40V2RAY_VMESS_free
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&echfq=none&host=sni.jpmj.dev&fp=chrome&allowinsecure=0&type=ws&sni=sni.jpmj.dev#%40V2RAY_VMESS_free
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&echfq=none&host=sni.jpmj.dev&allowinsecure=0&type=ws&sni=sni.jpmj.dev#%40V2RAY_VMESS_free
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org#%40V2RAY_VMESS_free
@@ -671,7 +670,6 @@ vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?security=reality&
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%40FreakConfig
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:22443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
-vless://33def33b-3bf0-490d-bfd9-5582390968f0@94.101.178.172:35880?security=none&encryption=none&headerType=none&type=tcp#%40Father_vpn
 vless://de8c3b93-6e91-4e79-8495-e826e401eded@ar.speed1vipsarbaziclick.site:41371?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim
 vless://c484549d-96c2-42f3-bc30-1d8c29c71244@217.114.40.212:17577?encryption=none&type=tcp#%40
 vless://fdedb0f9-f5e4-4278-9c2f-30a3fe6dce20@37.32.27.85:8080?path=%2F&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#Tel%3B%40Father_vpn
@@ -695,6 +693,12 @@ vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security
 vless://5bcfacea-d69c-4e38-9007-80871db80567@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@UnNurmal
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@UnNurmal
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=webassets.cafebazaar.ir#%40V2RAYENGLISH
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=bn.8lack.ir&sni=bn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#@UnNurmal
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=en.8lack.ir&sni=en.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#@UnNurmal
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#@UnNurmal
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#@UnNurmal
+vless://3163b8fc-de27-48a3-a736-7c117e574ce8@mlh.mynethub99.top:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mlh.mynethub99.top#@UnNurmal
+vless://4b7ae2ae-0220-4c72-a4e7-fc252415108a@arvan2.un1ty.ir:80?encryption=none&type=ws&path=%2F&allowInsecure=1#@UnNurmal
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.configforvpn.fun#%40ConfigforVPN
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.conf…
