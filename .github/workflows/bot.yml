@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --global user.email "soroushimanian@gmail.com"
           git config --global user.name "SoroushImanian"
-          git remote set-url origin https://github.com/SoroushImanian/BlackKnight.git
+          git remote set-url origin https://github.com/mrspennydoye/BlackKnight.git
       
       - name: Push changes with rebase
         run: |
