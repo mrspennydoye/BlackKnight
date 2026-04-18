@@ -375,7 +375,6 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allow
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40irshum2&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40vip_vpn_2022%20%D9%82%D9%88%DB%8C
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#@vip_vpn_2022 
 vless://db487de4-7e8f-4b3b-b5e8-1e7337ea7954@172.64.152.23:443?type=ws&encryption=none&path=%2F%40asrnovin_ir&host=asrnovin.8par.site&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=asrnovin.8par.site#vip_vpn_2022
-vless://7eeeb196-0018-4e77-8bb4-34aca534930d@8.6.112.0:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dl.wolfpro.fun&fp=chrome&type=ws&allowInsecure=1&sni=dl.wolfpro.fun#%40@ultrasurf_12
 vless://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?security=none&encryption=none&headerType=none&type=tcp#%40ultrasurf_12
 vless://1dbd2d7d-65db-4cc3-b12b-657a34864dc4@v5.game2dns.xyz:576?security=none&encryption=none&headerType=none&type=tcp#%40ultrasurf_12-%D8%AA%D9%88%E2%80%8C%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%E2%80%8C%D8%A8%D8%B2%D9%86%DB%8C%D8%AF
 vless://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&encryption=none&host=www.filimo.com&headerType=http&type=tcp#%40ultrasurf_12
@@ -416,8 +415,6 @@ vless://815724d3-0d61-4761-be07-471441d42be5@Parspack.com:80?path=%2FTelegram%3A
 vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?security=none&encryption=none&host=Zvtm62fo.divarcdn.com&headerType=http&type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2Fazaronline.com%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=httpupgrade&sni=mehrab.mojtabajeab.ir#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
-vless://c2bf8051-3fce-4e16-b10c-ca15176136b5@fuckrc.enhanzy.com:443?encryption=none&type=tcp#@vasl_bashim
-vless://9a58741b-b9d2-41d6-9910-d5ea4fce6139@185.143.233.5:443?security=tls&encryption=none&type=ws&host=dn.8lack.ir&path=/chat?ed%3D128&sni=dn.8lack.ir&fp=firefox&alpn=h2,http/1.1#@vasl_bashim
 vless://53a087ef-2863-4e4a-9480-1c6c6c996f37@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#Tel%3B%40Father_vpn
 vless://42026dab-fe60-4155-8edb-a917ee5e7dee@link2x11580.temp.veraspeed.ir:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#Tel%3BFather_vpn
 vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.frest.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.frest.ir#@UnNurmal
@@ -634,14 +631,6 @@ vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=%2F&security
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#@unlimiteddev
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@vmessorg
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?encryption=none&security=tls&sni=kamalnet.pages.dev&fp=chrome&type=ws&host=kamalnet.pages.dev&path=%2F#vmessorg
-vless://5b2dc2a9-75d1-3e19-586c-deab08b2618d@lord.socialxxmedia.proxt:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@FalconPolV2rayNG
-vless://9b47a7d6-e54e-49ab-9076-82e637fae127@web.irantrade.online:8443?security=none&encryption=none&headerType=none&type=tcp#@FalconPolV2rayNG
-vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&encryption=none&host=188.121.102.71&headerType=http&type=tcp#@FalconPolV2rayNG
-vless://420349f3-6024-4457-bde6-b3d11183d728@31.216.62.198:20391?security=none&encryption=none&headerType=none&type=tcp#@FalconPolV2rayNG
-vless://66926652-ad9b-4fbb-9b6c-f4985c82e425@connected5.starpo5.ir:8080?security=none&encryption=none&headerType=http&type=tcp#@FalconPolV2rayNG
-vless://6e3db16b-3b5a-46a1-a88b-29e48e95b308@nl.catinetvop.fun:8102?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@FalconPolV2rayNG
-vless://88489dcc-b0a1-4ac5-a4ff-55c03cbbd734@speed.mobilekamali.com:40915?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@FalconPolV2rayNG
-vless://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=d1bezfxa40zhk8.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1bezfxa40zhk8.cloudfront.net#@FalconPolV2rayNG
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?security=tls&sni=a1d.maxriser.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=a1d.maxriser.ir&encryption=none#@FalconPolV2rayNG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Channel%20id%3A%20%40ShadowProxy66
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?path=%2F&security=none&encryption=none&host=DOFF.mehrsazi.ir&type=ws#Channel%20id%3A%20%40ShadowProxy66
