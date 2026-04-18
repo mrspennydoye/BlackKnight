@@ -2,7 +2,7 @@
 include 'channel.php';
 date_default_timezone_set('Asia/Tehran');
 
-define('MAX_MIX_CONFIGS', 500);
+define('MAX_MIX_CONFIGS', 55000);
 
 function fetchContent($url) {
     $ch = curl_init();

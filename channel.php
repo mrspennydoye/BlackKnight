@@ -226,5 +226,6 @@ $telegramChannelURLs = [
 		"https://t.me/s/proxy_shadosocks",
 		"https://t.me/s/v2ray_youtube",
 		"https://t.me/s/V2ray_Alpha",
+		"https://t.me/filembad",
 ];
 ?>
