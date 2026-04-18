@@ -505,7 +505,6 @@ ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40irshum2&
 ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#@vip_vpn_2022 
 ss://db487de4-7e8f-4b3b-b5e8-1e7337ea7954@172.64.152.23:443?type=ws&encryption=none&path=%2F%40asrnovin_ir&host=asrnovin.8par.site&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=asrnovin.8par.site#vip_vpn_2022
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%40FOX_VPN66
-ss://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?security=none&encryption=none&headerType=none&type=tcp#%40ultrasurf_12
 ss://1dbd2d7d-65db-4cc3-b12b-657a34864dc4@v5.game2dns.xyz:576?security=none&encryption=none&headerType=none&type=tcp#%40ultrasurf_12-%D8%AA%D9%88%E2%80%8C%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%E2%80%8C%D8%A8%D8%B2%D9%86%DB%8C%D8%AF
 ss://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&encryption=none&host=www.filimo.com&headerType=http&type=tcp#%40ultrasurf_12
 ss://a177f318-1769-41c5-861a-25ffd5adcc51@rfiksma.top:10355?encryption=none&type=tcp#%ultrasurf_12
@@ -729,6 +728,7 @@ ss://a16e9398-733a-450e-9a7f-7711ef24e2bf@tamin.ir:2052?path=%2F&security=none&e
 ss://d83ab7c4-95f8-4812-8b68-6172a8f747a0@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=dom.amirenzohost.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://GozargahAzadi@78.157.53.235:35651?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://53a087ef-2863-4e4a-9480-1c6c6c996f37@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+ss://0da48fed-22b2-bf81-978d-cdfcbccedd7f@sdl.ciliko.ir:80?path=%2F&security=none&encryption=none&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://b4bd0613-ff7c-4f2f-954d-185915e6ddad@104.17.71.206:443?type=ws&security=tls&host=rule.kermanshahi.org&sni=rule.kermanshahi.org&path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&alpn=h2,http/1.1#JavidnamanIran-telegram
 ss://b4bd0613-ff7c-4f2f-954d-185915e6ddad@Sourceforge.net:443?type=ws&security=tls&host=rule.kermanshahi.org&sni=rule.kermanshahi.org&path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&alpn=h2,http/1.1#JavidnamanIran-telegram
 ss://b4bd0613-ff7c-4f2f-954d-185915e6ddad@Chatgpt.com:443?type=ws&security=tls&host=rule.kermanshahi.org&sni=rule.kermanshahi.org&path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&alpn=h2,http/1.1#JavidnamanIran-telegram
@@ -1636,7 +1636,6 @@ ss://5889069c-5d0a-442b-8a2f-571e821153cf@d2ydq2zfuhl6da.cloudfront.net:443/?pat
 ss://5889069c-5d0a-442b-8a2f-571e821153cf@d3ko5fk551z9sn.cloudfront.net:443/?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d3ko5fk551z9sn.cloudfront.net#V2rayLinkFreeQuick8
 ss://5889069c-5d0a-442b-8a2f-571e821153cf@d10d6idiz32l7h.cloudfront.net:443/?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d10d6idiz32l7h.cloudfront.net#V2rayLinkFreeQuick9
 ss://5889069c-5d0a-442b-8a2f-571e821153cf@d1c2d1cvq5lwn1.cloudfront.net:443/?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d1c2d1cvq5lwn1.cloudfront.net#V2rayLinkFreeQuick10
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:443?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy# telegram @mtmvpn
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev# telegram @mtmvpn
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%A64749%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A64750%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
