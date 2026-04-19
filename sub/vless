@@ -372,7 +372,6 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allow
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40irshum2&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40vip_vpn_2022%20%D9%82%D9%88%DB%8C
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/%20@ProxyVPN11#@vip_vpn_2022 
 vless://db487de4-7e8f-4b3b-b5e8-1e7337ea7954@172.64.152.23:443?type=ws&encryption=none&path=%2F%40asrnovin_ir&host=asrnovin.8par.site&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=asrnovin.8par.site#vip_vpn_2022
-vless://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&encryption=none&host=www.filimo.com&headerType=http&type=tcp#%40ultrasurf_12
 vless://a177f318-1769-41c5-861a-25ffd5adcc51@rfiksma.top:10355?encryption=none&type=tcp#%ultrasurf_12
 vless://af4213f4-e6ab-4d03-b6ee-3ab6fc3c85bc@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fgraphql%3Fed%3D30&host=dl3nc.smartnetworktools.ir&sni=dl3nc.smartnetworktools.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#https://t.me/ultrasurf_12
 vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.frest.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.frest.ir#@ultrasurf_12
@@ -978,15 +977,15 @@ vless://a8df45a4-eb57-450d-a526-43dcef46981a@78.141.221.194:8080?type=http&path=
 vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&path=%2FDota2%3Fed%3D2048&host=&mode=auto&security=reality&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&fp=randomized&sni=hundleymechanical.com&sid=008c74&spx=%2F#%DA%86%D9%86%D9%84%20%3A%20RivenVpn
 vless://Telegram-Parsashonam@8.6.112.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40FarazV2ray%20ALL%20NET
 vless://Telegram-Parsashonam@127.0.0.1:40443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&s…
+vless://Telegram-Parsashonam@127.0.0.1:40443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&s…
 vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-1
 vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-2
 vless://Telegram-Parsashonam@127.0.0.1:40443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&s…
 vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-1  vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&path=%2F&securit…
 vless://Telegram-Parsashonam@127.0.0.1:40443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&s…
 vless://Telegram-Parsashonam@127.0.0.1:40443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&s…
-vless://Telegram-Parsashonam@104.17.150.76:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam
-vless://Telegram-Parsashonam@104.17.150.76:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam  @Parsashonam 
-vless://Telegram-Parsashonam@www.multiplydose.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam
+vless://Telegram-Parsashonam@104.17.150.76:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam-1
+vless://Telegram-Parsashonam@www.multiplydose.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam-2
 vless://13201185-edb3-40ed-a92d-ded4c2514854@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#b1va6bd8FHhVVV
 vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F&security=none&encryption=none&type=ws#%40configfree20255
 vless://2988db8e-6071-4598-a834-ee2aecf1bf56@fast.mygoldiran.com:51233?mode=multi&security=reality&encryption=none&pbk=ZEB3b68o8yeUhnPhb23SYKsWtc_WT32KwPeCOXxWqX0&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3c#%D8%B9%D8%B6%D9%88%DB%8C%D8%AA%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40configfree20255
