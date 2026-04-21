@@ -639,8 +639,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?allowInsecure=1&encr
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%E2%99%9288@oneclickvpnkeys
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.147.104:443?allowInsecure=1&encryption=none&host=3-2h8.pages.dev&security=tls&sni=3-2h8.pages.dev&type=ws#%E2%99%9289@oneclickvpnkeys
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%E2%99%9290@oneclickvpnkeys
-ss://3e49bc02-675b-4dcd-b9fe-61dd56e6b907@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=enzo.amirenzohost.ir&type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-ss://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto&path=%2F%40SheriffNet&security=tls&encryption=none&insecure=0&host=cdnde.sheriffbus.com&fp=firefox&type=xhttp&allowInsecure=0&sni=cdnde.sheriffbus.com#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 ss://Telegram-Parsashonam@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 ss://Telegram-Parsashonam@8.6.112.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
@@ -659,6 +657,7 @@ ss://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encrypt
 ss://92a29f38-255f-4f3c-ba93-adef674fafd1@87.248.150.183:16655?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://a177f318-1769-41c5-861a-25ffd5adcc51@rfiksma.top:10355?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+ss://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://WomanLifeFreedomVPN@s…
 ss://WomanLifeFreedomVPN@s…
 ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&spx=%2F&type=tcp&headerType=none#%40WomanLifeFreedomVPN
@@ -1307,7 +1306,6 @@ ss://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=%2F36.95.152.5
 ss://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=%2F139.99.124.165%3D443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 ss://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=%2F213.35.100.31%3D47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 ss://57e4c9a4-2673-40ee-a37a-e12f5623c058@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#@CUSTOMVPNSERVER
-ss://23398e4f-ad6d-4d25-8343-8aeeb7447a88@SnaPP.ir:80?encryption=none&type=ws&host=bat.abanservers.ir&path=/secv&security=none#Xes
 ss://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#%40proxy_kafee%20-%20Psiphon%2019
 ss://206d462c-2da2-47e2-b4ab-7b307aff30e8@81.12.54.14:8080?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee
 ss://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&type=ws&sni=webassets.cafebazaar.ir#@proxy_kafee
