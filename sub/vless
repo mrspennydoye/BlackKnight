@@ -860,6 +860,7 @@ vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&
 vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%40Vpn_Tehran%20%F0%9F%AA%BD%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40Vpn_Tehran%20%F0%9F%AA%BD%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40Vpn_Tehran%20%F0%9F%AA%BD%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#https://t.me/v2ray_vpn_ir
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#%40V2_TEAM%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&fp=chrome&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#%40V2_TEAM%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://06ef598c…
@@ -1136,7 +1137,6 @@ vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=%2F36.95.15
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=%2F139.99.124.165%3D443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=%2F213.35.100.31%3D47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://57e4c9a4-2673-40ee-a37a-e12f5623c058@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://6a7c2cf0-232f-4818-ad2d-e37aa87e6355@185.143.233.217:8080?encryption=none&type=ws&host=me.chehre-negar.ir&path=/ws&security=none#Fast
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@proxy_kafee
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@
 vless://7c8c4cfc-75b6-4860-84f6-048a6c126b21@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=hi.jahansportmarkazi.ir&security=none#@proxy_kafee
