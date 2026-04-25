@@ -568,6 +568,7 @@ vless://a177f318-1769-41c5-861a-25ffd5adcc51@rfiksma.top:10355?security=none&enc
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://WomanLifeFreedomVPN@s…
 vless://WomanLifeFreedomVPN@s…
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&spx=%2F&type=tcp&headerType=none#%40WomanLifeFreedomVPN
@@ -713,10 +714,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.157:22224?type=ws&securit
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=&type=tcp#@CloudCityy
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(@V2fetch)&security=reality&fp=chrom…
-vless://a243c8a3-57de-42f3-8f5f-2783caf143bd@snapp.ir:80?encryption=none&type=ws&path=%2F&host=s.linuwebtunnel.site#V2rayng_Fast
-vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#V2rayng_Fast
-vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#V2rayng_Fast
-vless://468fe91b-6b74-47f3-885a-3557fd55ce46@85.198.10.44:443?path=%2Fchat%2Fapi%2Fv4%2Fwebsocket-qrkd&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=files.qrkd.ir#V2rayng_Fast
 vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=&encryption=none&host=ss.oppobot.ir&type=ws#V2rayng_Fast
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&headerType=&type=tcp#V2rayng_Fast
 vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#V2rayng_Fast
@@ -761,6 +758,10 @@ vless://bef26f50-251e-454f-b25f-40f64eae3b80@trex.nahidapp.com:443?path=/vless-w
 vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?encryption=none&type=ws&host=in.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=in.8lack.ir&alpn=h2,http/1.1#V2rayng_Fast
 vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?encryption=none&type=ws&path=%2F&host=rpsvpn3.xchitozx.org#V2rayng_Fast
 vless://444ec649-aef1-4629-bf87-1e5a2ad2458d@out.radpol.ir:2052?type=ws&encryption=none&path=%2F&host=&security=none#V2rayng_Fast
+vless://f01de3e1-150c-4c32-bf87-717ba37a2472@185.143.234.200:80?path=%2F&security=none&encryption=none&host=tr.newdesigne.ir&type=ws#V2rayng_Fast
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#V2rayng_Fast
+vless://c334010c-b5eb-4d80-bc93-9d7b52b03e6e@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=pt.novatechplus.ir&type=ws#V2rayng_Fast
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#V2rayng_Fast
 vless://telegram-id-ArV2ray@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dwojwh14.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS7-ALL|@v2ray_swhil
 vless://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#
