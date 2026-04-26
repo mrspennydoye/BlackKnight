@@ -529,8 +529,6 @@ vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=
 vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&encryption=none&insecure=0&host=samandbams.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://WomanLifeFreedomVPN@s…
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&sid=ce&spx=%2F&type=tcp&headerType=none#%40WomanLifeFreedomVPN
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest.wlftest.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=ios&pbk=NT3ozRtE…
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest2.wlftest.xyz:443?security=reality&encryption=none&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&sid=ce#%40WomanLifeFreedomVPN
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest2.wlftest.xyz:443?security=reality&encryption=none&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx…
@@ -695,10 +693,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.77.217:22224?type=ws&security
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=&type=tcp#@CloudCityy
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?type=grpc&mode=gun&serviceName=Telegram:(@V2fetch)&security=reality&fp=chrom…
-vless://9db54a3c-ae37-455e-a219-fb58eef9157f@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#V2rayng_Fast
-vless://c998db4c-fa61-4869-9156-867887d6aba8@parbam.baaq-yas.ir:2096?path=%2Findex.html&security=tls&encryption=none&insecure=0&host=parbam.baaq-yas.ir&fp=chrome&type=ws&allowInsecure=0&sni=parbam.baaq-yas.ir#V2rayng_Fast
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#V2rayng_Fast
-vless://a2aa9012-57c4-4e7f-9a1d-018ed0292f2b@snapp.ir:80?path=%2F&security=none&encryption=none&host=trx.noventa.ir&type=ws#V2rayng_Fast
 vless://401bf807-8e5b-4f75-a534-1581b745009f@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=gh8.ghostantaniehh.ir&type=ws#V2rayng_Fast
 vless://4075727e-3199-440c-9c8f-7b9e0b4d4478@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#V2rayng_Fast
 vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#V2rayng_Fast
