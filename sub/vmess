@@ -81,16 +81,6 @@ vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF46@oneclickvpnkeys
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.49:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF47@oneclickvpnkeys
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.9.205:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF48@oneclickvpnkeys
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.58:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF49@oneclickvpnkeys
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.188:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF50@oneclickvpnkeys
-vmess://ae862e1d-3b8c-443a-027b-37c6c69ef43c@45.192.101.134:9527?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF51@oneclickvpnkeys
-vmess://95dd45fb-8e36-4ff2-fa9e-24b68a34f3cd@usaapp2.jisuyun.top:2053?allowInsecure=1&encryption=auto&host=usaapp2.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp2.jisuyun.top&type=ws#%F0%9F%A7%BF52@oneclickvpnkeys
-vmess://8c99e6bf-a701-4534-cdde-abecd1d6826f@117.18.125.183:57460?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF53@oneclickvpnkeys
-vmess://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF54@oneclickvpnkeys
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF55@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.68:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF63@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.37:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF69@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.51:30082?encryption=auto&security=none&type=tcp#%F0%9F%A7%BF06@oneclickvpnkeys
