@@ -972,6 +972,8 @@ ss://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&path=%2FD
 ss://Telegram-Parsashonam@8.6.112.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40FarazV2ray%20ALL%20NET
 ss://f4f7ff82-b369-424f-bfbc-730c39f4549a@namstar.hi-phonee.ir:54065?path=%2F&security=none&encryption=none&type=ws#https://t.me/FREE_VPN02
 ss://a175d6b6-8a8b-49a0-8ec4-37f2a4de59b4@87.107.187.149:8010?encryption=none&type=tcp#
+ss://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=kubernetes.io#%40Parsashonam-1
+ss://Telegram-Parsashonam@blog.helm.sh:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=blog.helm.sh#%40Parsashonam-2
 ss://13201185-edb3-40ed-a92d-ded4c2514854@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#b1va6bd8FHhVVV
 ss://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F&security=none&encryption=none&type=ws#%40configfree20255
 ss://2988db8e-6071-4598-a834-ee2aecf1bf56@fast.mygoldiran.com:51233?mode=multi&security=reality&encryption=none&pbk=ZEB3b68o8yeUhnPhb23SYKsWtc_WT32KwPeCOXxWqX0&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3c#%D8%B9%D8%B6%D9%88%DB%8C%D8%AA%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40configfree20255
