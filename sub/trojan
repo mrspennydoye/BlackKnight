@@ -38,7 +38,6 @@ trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=no
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@V2rayNG3
 trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#@v2rayng3
-trojan://5c923a18-f249-466c-a315-e58aabc689ef@star.vipco-gg.workers.dev:443?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=star.vipco-gg.workers.dev&fp=chrome&allowInsecure=0#CoOow
 trojan://8r
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#Hong%20Kong%20Netvigator
@@ -148,6 +147,8 @@ trojan://telegram-id-directvpn@13.37.173.17:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@15.188.43.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#V2rayng_Fast
+trojan://humanity@104.16.7.70:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#V2rayng_Fast
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&path=static34528&host=fadaei.movieland.top#Suren%20TM
 trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&allowInsecure=1&fp=chrome&type=ws&path=/assignment&host=www.calmloud.com#https://t.me/v2ray_vpn_ir
 trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#https://t.me/v2ray_vpn_ir
@@ -176,6 +177,7 @@ trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&s
 trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2Fmftizi
 trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231?security=tls&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com&type=tcp&headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
 trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com:27231?security=tls&sni=204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com&type=tcp&headerType=none#%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https%3A%2F%2Ft.me%2Fmftizi
+trojan://d30ab83dbde4480082048fb315bedebd@15.204.56.75:443?encryption=none&security=tls&sni=15.204.56.75&insecure=1&type=raw&headertype=none#%F0%9F%87%BA%F0%9F%87%B8United+States+-%3E+%F0%9F%87%BA%F0%9F%87%B8United+States+%E2%9A%A1@DeamNet_Proxy
 trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@Capoit
 trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@Capoit
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#@Capoit
