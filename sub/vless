@@ -738,6 +738,8 @@ vless://4b3086ce-cf5c-4f14-8f3d-4d5f074cd84e@193.151.158.147:443?encryption=none
 vless://5fb1acf8-1177-442f-8ccd-025488156895@193.151.146.238:44788?encryption=none&type=tcp&security=none#
 vless://67a2738a-9928-4106-a814-a5ac8497a4a5@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#
 vless://71398e6c-be36-4fe1-ba32-ae8cda5ad445@193.151.152.127:39892?encryption=none&type=tcp#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.25.236:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.222.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.99.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.214.248:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.104.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
