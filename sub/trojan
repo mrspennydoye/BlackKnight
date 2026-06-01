@@ -102,6 +102,10 @@ trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@15.188.43.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://GdL9nNA8km@ssss2.avaaal.ir:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ssss2.avaaal.ir#V2rayng_Fast
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#V2rayng_Fast
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40FarazV2ray
+trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%40FarazV2ray
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calml…
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.linkman1.ir#%40FarazV2ray
 trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40FarazV2ray
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&path=static34528&host=fadaei.movieland.top#Suren%20TM
@@ -124,7 +128,6 @@ trojan://mitivpn@188.114.97.6:443?type=ws&host=cdn.linkman1.ir&path=/720f09dba19
 trojan://mitivpn@104.18.32.47:2053?type=ws&host=www.linkman1.ir&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&fp=chrome&sni=www.linkman1.ir&alpn=http/1.1#Germany%20%F0%9F%87%A9%F0%…
 trojan://mitivpn@104.16.75.127:443?type=ws&host=cdn.linkman1.ir&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&fp=chrome&sni=cdn.linkman1.ir&alpn=http/1.1#%20(%20Usa%20%F0%9F%87%BA%F0%9F%87%B2%20)
 trojan://mitivpn@104.16.75.127:443?type=ws&host=www.linkman1.ir&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&fp=chrome&sni=www.linkman1.ir&alpn=http/1.1#%20(%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%20)
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#NetAccount
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment
 trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi
