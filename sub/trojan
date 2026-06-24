@@ -6,6 +6,7 @@ trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://pemyo67c0yjom5kv@104.21.100.168:443?path=%2Fmobotouch&security=tls&alpn=http%2F1.1&insecure=0&host=free.codv2.com&fp=chrome&type=ws&allowInsecure=0&sni=free.codv2.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 trojan://telegram-id-privatevpns@15.237.161.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.37.90.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@52.28.80.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
@@ -199,6 +200,7 @@ trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&ho
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&path=static34528&host=fadaei.movieland.top#Suren%20TM
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click&allowInsecure=1&type=tcp#loti%205%20@v2ray_vpn_ir
+trojan://iKmZWib7Mb@104.17.108.1:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=a2.aananas.ir&fp=firefox&type=ws&allowInsecure=0&sni=a2.aananas.ir#%40FarazV2ray
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40FarazV2ray
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%D8%AF%D8%B1%20%D8%B5%D9%88%D8%B1%D8%AA%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%D9%86%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D8%9B%20configfree20255%40%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B3%D8%B1%DA%86%20%DA%A9%D9%86%DB%8C%D8%AF
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%40configfree20255
@@ -251,7 +253,6 @@ trojan://%4D%69%54%69%56%50%4E@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=t
 trojan://MITIVPN@151.101.69.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#telegram%20%40mtmvpn
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#telegram%20%40mtmvpn
 trojan://SoftNetConnect@37.156.44.157:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20mtmvpn
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?security=tls&sni=edu.ruangguru.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi#https%3A%2F%2Ft.me%2Fv2ray_youtube
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER#https%3A%2F%2Ft.me%2Fv2ray_youtube
 trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#@v2ray_youtube
 trojan://humanity@srv1.khatibirepair.ir:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#@v2ray_youtube
