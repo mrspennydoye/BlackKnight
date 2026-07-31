@@ -235,8 +235,10 @@ trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://kami@188.114.97.6:443?security=tls&sni=ww.gameserver.de5.net&allowInsecure=1&type=tcp#kami%201
 trojan://kami@188.114.97.6:443?security=tls&sni=ww.gameserver.de5.net&allowInsecure=1&type=tcp#kami%201
 trojan://kami@188.114.97.6:443?security=tls&sni=ww.gameserver.de5.net&allowInsecure=1&type=tcp#kami%201
-trojan://7f2lnuboFJ@62.60.148.98:22597?security=reality&sni=www.intel.com&fp=chrome&pbk=OKyWZTPzXNnypsWdRqA5OjRRj8CvNWnh-UDQdBPQNG0&sid=28d10c99eaa4&spx=%2F&type=tcp&headerType=none#[
-trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[
+trojan://SijoMNYVbPKQynblQeL9BjCnO43Zup3d@video.poki-pakipon.ir:32190?security=reality&pbk=myxNd1bvr963QPX-04CKcKkXSUfiUn2lLEQrdN4I4ms&headerType=none&fp=firefox&type=tcp&sni=rd.autos.yahoo.com&sid=141d17dfc73efe2c#%40FarazV2ray
+trojan://hnwWP8L98hm7jMaE4Dfd7Q@95.217.159.175:19302?mode=stream-one&path=%2Fpath&security=reality&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=firefox&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#%40FarazV2ray
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40FarazV2ray
+trojan://hnwWP8L98hm7jMaE4Dfd7Q@138.199.228.1:19302?mode=stream-one&path=%2Fpath&security=reality&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&host=hostname&fp=firefox&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=c6e19c434dc87df7#%40FarazV2ray
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40FarazV2ray
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%40FarazV2ray
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40FarazV2ray
@@ -266,6 +268,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&ins
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40daredevill_404
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Channel%20%3A%20%40proxy_kafee
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#Channel%20%3A%20%40proxy_kafee
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%20CDN
 trojan://MiTiVPN@104.18.6.178:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnl&security=tls&alpn=http%2F1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.Maqror.ir#
