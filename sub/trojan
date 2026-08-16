@@ -32,7 +32,6 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigV2RayNG
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
-trojan://FH72359861@pro-crane.rooster465.autos:443#%E2%9A%9B%EF%B8%8F25@oneclickvpnkeys
 trojan://FH72359861@summary-lemming.rooster465.autos:443#%E2%9A%9B%EF%B8%8F31@oneclickvpnkeys
 trojan://FH72359861@engaging-toucan.rooster465.autos:443#%E2%9A%9B%EF%B8%8F34@oneclickvpnkeys
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%E2%9A%9B%EF%B8%8F36@oneclickvpnkeys
@@ -71,6 +70,7 @@ trojan://FH72359861@108.130.49.217:443?allowInsecure=1&sni=concise-bass.rooster4
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#%F0%9F%A6%8153@oneclickvpnkeys
 trojan://FH72359861@cunning-grub.rooster465.autos:443#%F0%9F%A6%8158@oneclickvpnkeys
 trojan://FH72359861@touching-turtle.rooster465.autos:443#%F0%9F%A6%8160@oneclickvpnkeys
+trojan://FH72359861@summary-firefly.rooster465.autos:443#%F0%9F%A6%8179@oneclickvpnkeys
 trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dsws&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://---------BanV2ray------------@179.237.74.104:584?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
@@ -186,4 +186,3 @@ trojan://%4D%69%54%69%56%50%4E@151.101.56.8:443?path=%2F---%40%4D%69%54%69%56%50
 trojan://XG59623478@89.39.70.159:443?security=tls&sni=upward-hedgehog.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#https%3A%2F%2Ft.me%2Fv2ray_youtube
 trojan://MiTiVPN@202.37.33.80:443?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-.Maqror.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.Maqror.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl#https%3A%2F%2Ft.me%2Fv2ray_youtube
 trojan://MITIVPN@104.20.6.134:443?security=tls&sni=MiTiVPN---MiTiVPN-7.Maqror.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.Maqror.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa#https%3A%2F%2Ft.me%2Fv2ray_youtube
-trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40V2ray_Alpha%F0%9F%A6%8C%204
