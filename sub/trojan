@@ -39,6 +39,14 @@ trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Channel%20id%3A%20%40ConfigV2RayNG%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%5B%F0%9F%87%B4%F0%9F%87%B3%5Dt.me%2FConfigV2RayNG
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%5B%F0%9F%87%B4%F0%9F%87%B3%5Dt.me%2FConfigV2RayNG
+trojan://fg20mtCFHy@172.232.42.44:5577?allowInsecure=1&sni=gtyxz.southbyte.xyz#%F0%9F%8D%8F33@oneclickvpnkeys
+trojan://AE62539071@193.169.239.14:443?fp=chrome&sni=emerging-weevil.rooster465.autos#%F0%9F%8D%8F37@oneclickvpnkeys
+trojan://FH72359861@13.37.222.178:443?sni=correct-pony.rooster465.autos#%F0%9F%8D%8F38@oneclickvpnkeys
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F%3Fed&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8D%8F40@oneclickvpnkeys
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8D%8F41@oneclickvpnkeys
+trojan://PQ05174892@rapid-firefly.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F43@oneclickvpnkeys
+trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%8D%8F44@oneclickvpnkeys
+trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F45@oneclickvpnkeys
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F49@oneclickvpnkeys
 trojan://PQ05174892@casual-quail.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F54@oneclickvpnkeys
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#%F0%9F%8D%8F55@oneclickvpnkeys
@@ -115,6 +123,8 @@ trojan://telegram-id-directvpn@15.188.43.202:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40V2rayng_Fast
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40V2rayng_Fast
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40V2rayng_Fast
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40V2rayng_Fast
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40FarazV2ray
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40FarazV2ray
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40FarazV2ray
