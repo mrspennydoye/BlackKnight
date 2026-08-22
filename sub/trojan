@@ -4,6 +4,8 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://MiTiVPN@140.248.185.253:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://FH72359861@63.176.171.181:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=engaging-toucan.rooster465.autos#Free%20333%20%40Outline_Vpn
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Free%20345%20%40Outline_Vpn
+trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#Free%20x17%20%40Outline_Vpn
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Free%20x22%20%40Outline_Vpn
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@v2rayng3
@@ -97,7 +99,6 @@ trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40V2rayng_Fast
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40V2rayng_Fast
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40V2rayng_Fast
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40FarazV2ray
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40FarazV2ray
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40FarazV2ray
 trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#T.me%2FSafeNet_Server%20%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
@@ -106,8 +107,7 @@ trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&ty
 trojan://humanity@gr3.levikogjgfdd.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40Vpn_Tehran%20%F0%9F%87%A9%F0%9F%87%AA%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#%40Vpn_Tehran%20%F0%9F%92%9C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 trojan://3ccbd6a4-bb95-4a93-bf7a-ad4a0bde9054@MAILGateWAy7-baSeSTREaM3-pORTNOdEHub9.clOUDsYNC9.Com:443?path=%2FJqME6Sln1BgoYh8&security=tls&alpn=http%2F1.1&insecure=0&host=NoDeLiNkBase7-ApiwebStREam3-DatacOREnET.CLoUdSYNC9.cOM&fp=chrome&type=ws&allowInsecure=0&sni=nodelInKBasE7-aPIWebStrEam3-DaTAcOrENET.cloUdsYNc9.com#%40Vpn_Tehran%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40FarazV2ray
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40FarazV2ray
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40FarazV2ray
@@ -120,6 +120,8 @@ trojan://telegram-id-privatevpns@13.48.229.76:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@51.21.147.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@35.157.241.124:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.50.45.4:22222?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://IjeKXCOkPOrW@3.35.149.60:15364?allowInsecure=0&sni=appsvs.shop#@Hope_Net-join-us-on-Telegram
+trojan://c26306e1-7892-3f19-b2ea-9824cd1b6744@36.141.40.27:13001?allowInsecure=0&sni=i2.hdslb.com#@Hope_Net-join-us-on-Telegram
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#%40rxv2ray
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#%40rxv2ray
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%40daredevill_404
