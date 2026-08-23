@@ -48,6 +48,7 @@ trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiT
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.sony.com&sid=f304442cc982#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 trojan://HxigGNbDO8xyNNe9tuYJQQw0ksSF7I7Bm1etSfw%2B6J4%3D@65.109.211.136:28344?security=none&headerType=&type=tcp#Z
+trojan://HgkGFrFPuvmaiE90Va%2B2JwUgiGAqDEZ51YnksOtCMAI%3D@65.109.211.136:22002?security=none&headerType=&type=tcp#%40v2rayNG_Matsuri
 trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@15.224.0.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@18.199.182.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
